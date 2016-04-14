@@ -1,0 +1,9 @@
+Hair,Height,Weight,Lotion,Result
+blonde,average,light,no,sunburnt
+blonde,tall,average,yes,no
+brown,short,average,yes,no
+blonde,short,average,no,sunburnt
+red,average,heavy,no,sunburnt
+brown,tall,heavy,no,no
+brown,average,heavy,no,no
+blonde,short,light,yes,no
